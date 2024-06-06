@@ -4,4 +4,4 @@ After a successful career as a marketing executive, I have decided to pivot to a
 
 From the drop, I found working with tech extremely satisfying and enjoyed work that allowed me to use my analytical *and* creative capabilities. Focused almost exclusively on email blasts, social media posts, and the unrealistic expectations of shareholders, I view Marketing as a place where good careers go to die.
 
-**So here I am.** I'm excited to be learning and working with smart people on interesting projects--none of which involve dealing with some Porsche-driving SVP who doesn't understand why his $5,000 monthly spend on Google AdWords isn't doubling his sales numbers.
+**So here I am.** I'm excited to be learning and working with smart people on interesting projects--none of which involve dealing with some Porsche-driving EVP who doesn't understand why his $5,000 monthly spend on Google AdWords isn't doubling his sales numbers.
