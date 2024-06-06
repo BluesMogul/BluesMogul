@@ -1,2 +1,7 @@
-<img src="https//raw.githubusercontent.com/BluesMogul/BluesMogul/images/GitHub_Profile_Banner_1.jpg" alt="Chris McDowell, experienced marketing professional privoting to a new career as a full-stack developer.">
-#Hello. I'm Chris McDowell
+<img src="GitHub Profile Banner 1.jpg" alt="Chris McDowell, experienced marketing professional pivoting to a new career as a full-stack developer.">
+
+After a successful career as a marketing executive, I have decided to pivot to a new career as a web developer. Over the last two decades, I have partnered with several fast-growing start-ups to oversee the creation of their marketing infrastructure. As I was often the sole marketing resource during the beginning stages of these companies, I developed technical skills not typically held by my marketing peers. As a result, I have a wealth of experience as a database developer, (certified) network administrator, CRM administrator, graphic designer, and web developer. As a part of the leadership team, I acted as "chief technology evangelist" and liaison between leadership's goals and how to help meet those goals using technology.
+
+From the drop, I found working with tech extremely satisfying and enjoyed work that allowed me to use my analytical *and* creative capabilities. Focused almost exclusively on email blasts, social media posts, and the unrealistic expectations of shareholders, I view Marketing as a place where good careers go to die.
+
+**So here I am.** I'm excited to be learning and working with smart people on interesting projects--none of which involve dealing with some Porsche-driving SVP who doesn't understand why his $5,000 monthly spend on Google AdWords isn't doubling his sales numbers.
