@@ -11,7 +11,7 @@ As an executive team member and “technology evangelist,” my technical backgr
 I'm excited to be learning and working with smart people on interesting projects--none of which involve dealing with some Porsche-driving EVP who doesn't understand why his $5,000 monthly spend on Google AdWords *isn't doubling his sales numbers.* :neutral_face:
 
 **Visit Me on the InterWebs**<br>
-[![My Skills](https://skillicons.dev/icons?i=globe,gmail,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
 
 
 **Existing Skills**<br>
