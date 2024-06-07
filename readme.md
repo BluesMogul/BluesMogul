@@ -1,17 +1,17 @@
 <img src="GitHub Profile Banner 1.jpg" alt="Chris McDowell, experienced marketing professional pivoting to a new career as a full-stack developer.">
 
-**After a successful career as a marketing executive, I have decided to pivot to a new career as a web developer.**
+**After a successful career as a marketing executive :trophy: I have decided to pivot to a new career as a web developer.** :nerd_face:
 
-Over the last two decades, I have partnered with several fast-growing start-ups to oversee the creation of their marketing infrastructure. As I was often the sole marketing resource during the beginning stages of these companies, I developed technical skills not typically held by my marketing peers. As a result, I have a wealth of experience as a database developer, (certified) network administrator, CRM administrator, graphic designer, and web developer. As a part of the leadership team, I was the "chief technology evangelist" and acted as a liaison between the leadership's goals and how to help meet those goals using technology.
+Over the last two decades, I have developed technical skills not typically held by my marketing peers. I have a wealth of experience in database development, (certified) network administration, CRM development and administration, graphic design, and web development.
 
-From the drop, I found working with tech extremely satisfying and enjoyed work that allowed me to use my analytical *and* creative capabilities. Focused almost exclusively on email blasts, social media posts, and the unrealistic expectations of shareholders, I view Marketing as a place where good careers go to die. :ghost:
+As an executive team member and “technology evangelist,” my technical background enabled me to act as a liaison between senior leadership and internal and external technology resources. In addition to my long list of marketing responsibilities, I championed the use of technology to help meet the organization's goals. From the drop, I found working with tech extremely satisfying and enjoyed work that allowed me to use my analytical *and* creative capabilities.
 
 **So here I am.** :rocket:
 
 I'm excited to be learning and working with smart people on interesting projects--none of which involve dealing with some Porsche-driving EVP who doesn't understand why his $5,000 monthly spend on Google AdWords *isn't doubling his sales numbers.* :neutral_face:
 
 **Visit Me on the InterWebs**<br>
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=globe,gmail,linkedin)](https://skillicons.dev)
 
 
 **Existing Skills**<br>
