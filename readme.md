@@ -4,7 +4,7 @@
 
 Over the last two decades, I have developed technical skills not typically held by my marketing peers. I have a wealth of experience in database development, (certified) network administration, CRM development and administration, graphic design, and web development.
 
-As an executive team member and “technology evangelist,” my technical background enabled me to act as a liaison between senior leadership and internal and external technology resources. In addition to my long list of marketing responsibilities, I championed the use of technology to help meet the organization's goals. From the drop, I found working with tech extremely satisfying and enjoyed work that allowed me to use my analytical *and* creative capabilities.
+As an executive team member, my technical background enabled me to act as a "technology evangelist" and liaison between senior leadership and internal and external technology resources. In addition to my long list of marketing responsibilities, I championed the use of technology to help meet the organization's goals. From the drop, I found working with tech extremely satisfying and enjoyed using my analytical *and* creative capabilities.
 
 **So here I am.** :rocket:
 
